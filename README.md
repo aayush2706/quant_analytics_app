@@ -78,5 +78,4 @@ This project demonstrates:
 Real-time data ingestion
 Proper market data resampling
 Core quantitative analytics
-
 Clear backend/frontend separation
